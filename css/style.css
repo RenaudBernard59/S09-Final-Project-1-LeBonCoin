@@ -1,0 +1,26 @@
+nav.navbar {
+	background-color: orange;
+}
+
+.active {
+	background-color: darkorange;
+}
+
+h1 {
+	color: white;
+}
+
+.annonces, .lieux {
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.annonces {
+	background-color: lightblue;
+	color: white;
+}
+
+.lieux {
+	background-color: white;
+	color: lightblue;
+}
