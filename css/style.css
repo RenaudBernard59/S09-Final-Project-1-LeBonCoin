@@ -24,3 +24,20 @@ h1 {
 	background-color: white;
 	color: lightblue;
 }
+
+.firstFooter {
+	background-color: lightgrey;
+}
+
+.secondFooter, .footFooter {
+	background-color: darkgrey;
+}
+
+.figcaption {
+	color: white;
+	background-color: grey;
+
+
+h3 {
+	font-size: 1em;
+}
